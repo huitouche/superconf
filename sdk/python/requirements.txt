@@ -1,0 +1,2 @@
+kazoo==2.3.1
+simplejson==3.10.0
